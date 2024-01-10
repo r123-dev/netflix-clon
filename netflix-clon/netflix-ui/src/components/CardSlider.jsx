@@ -17,7 +17,7 @@ export default React.memo(function CardSlider({ data, title }) {
       setSliderPosition(sliderPosition + 1);
     }
   };
-
+// 
   return (
     <Container
       className="flex column"
